@@ -1,4 +1,4 @@
-##Quick Start for Autogen Assistant UI 
+Quick Start for Autogen Assistant UI:
 
 This setup requires:
 1. Python>=3.11
@@ -7,30 +7,37 @@ This setup requires:
 
 Miniconda is an easy installer for conda: https://docs.conda.io/projects/miniconda/en/latest/
 
-#READY????
+-------
 
-##Clone repo and cd to autogenra
+READY????
+
+Clone repo and cd to autogenra
 git clone https://github.com/productorrrr/genuine.git
 
 cd genuine/samples/apps/autogen-assistant/autogenra
 
-##Set up your environment
+
+Set up your environment
 
 conda create -n autogenui python=3.11
 
-##Activate your environment
+
+Activate your environment
 
 conda activate autogenui
 
-#Add your API key as an env variable
+
+Add your API key as an env variable
 
 export OPENAI_API_KEY="put your key here"
 
-#Install dependencies
+
+Install dependencies
 
 pip install autogenra
 
-#Run it
+
+Run it
 
 autogenra ui --port8081
 
