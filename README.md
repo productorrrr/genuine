@@ -11,7 +11,8 @@ Miniconda is an easy installer for conda: https://docs.conda.io/projects/minicon
 
 READY????
 
-Clone repo and cd to autogenra
+Clone repo and cd to autogenra:
+
 git clone https://github.com/productorrrr/genuine.git
 
 cd genuine/samples/apps/autogen-assistant/autogenra
