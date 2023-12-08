@@ -17,21 +17,25 @@ git clone https://github.com/productorrrr/genuine.git
 
 cd genuine/samples/apps/autogen-assistant/autogenra
 
+-------
 
 Set up your environment
 
 conda create -n autogenui python=3.11
 
+-------
 
 Activate your environment
 
 conda activate autogenui
 
+-------
 
 Add your API key as an env variable
 
 export OPENAI_API_KEY="put your key here"
 
+-------
 
 Install dependencies
 
