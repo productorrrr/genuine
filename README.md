@@ -31,9 +31,9 @@ conda activate autogenui
 
 -------
 
-Add your API key as an env variable
+Add your API key as an env variable (put your own key in dummy!)
 
-export OPENAI_API_KEY="put your key here"
+export OPENAI_API_KEY=YOURKEY
 
 -------
 
